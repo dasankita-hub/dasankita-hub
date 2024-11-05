@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ankita Das</h1>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Ankita+Das&color=cyan&center=true" />
+  </h3>
+</div>
 <h3 align="center">An aspiring Software Developer.</h3>
 
 - 🌱 I’m currently learning **MERN stack**
