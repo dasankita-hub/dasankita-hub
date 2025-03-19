@@ -1,7 +1,7 @@
 <img  align="right" width="400px" alt="Coder"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/>
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Ankita+Das&color=cyan&center=true" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Ankita&color=cyan&center=true" />
   </h3>
 </div>
 <h3 align="center">An aspiring Software Developer.</h3>
