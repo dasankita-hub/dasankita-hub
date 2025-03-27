@@ -6,9 +6,9 @@
 </div>
 <h3 align="center">An aspiring Software Developer.</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **Java,HTML,CSS,Javascript,Mysql**
+- 💬 Ask me about **Java,HTML,CSS,Javascript,React,Spirng,Hibernate,Mysql**
 
 - 📫 How to reach me **ankitadas3002@gmail.com**
 
