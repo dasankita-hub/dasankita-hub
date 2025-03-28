@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **Java,HTML,CSS,Javascript,React,Spirng,Hibernate,Mysql**
+- 💬 Ask me about **Java,HTML,CSS,Javascript,React ,Node js,Mysql,Mongo db**
 
 - 📫 How to reach me **ankitadas3002@gmail.com**
 
